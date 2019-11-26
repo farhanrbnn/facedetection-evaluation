@@ -7,7 +7,7 @@ make your own dataset for benchmarking face detection method like:
 4. mobilenet-SSD 
 5. Multi-Task Cascade (MTCNN)
 
-these code include:
+these repository include:
 1. occlusioning image 
 
    make the filled rectangle that cover faces based on dlib-cnn detection. there are four level: 100% occluded, 75% occluded, 50% occluded and 25% occluded
